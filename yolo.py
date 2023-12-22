@@ -1,1 +1,1 @@
-print("Yolo Badge")
+cout<<"yolo badge";
